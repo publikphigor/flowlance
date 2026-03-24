@@ -29,7 +29,7 @@ export default function Landing() {
       </nav>
 
       {/* Hero */}
-      <main className="flex flex-1 flex-col items-center justify-center px-6 text-center">
+      <main className="flex flex-1 flex-col items-center justify-center px-6 pt-12 sm:pt-0 text-center">
         <div className="absolute inset-0 -z-10 overflow-hidden">
           <div className="absolute top-[-20%] left-1/2 -translate-x-1/2 h-[600px] w-[800px] rounded-full bg-green-100/60 blur-3xl" />
           <div className="absolute bottom-[-10%] right-[-10%] h-[400px] w-[400px] rounded-full bg-green-50 blur-3xl" />
